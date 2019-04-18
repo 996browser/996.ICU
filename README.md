@@ -20,7 +20,7 @@ Related press coverage:
 
 See a [full list of press](externals/news_EN.md)
 
-
+1
 
 What is 996?
 ---
